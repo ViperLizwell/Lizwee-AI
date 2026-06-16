@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /workspaces/Lizwell-AI pull)",
+      "Bash(git -C /workspaces/Lizwell-AI diff index.html)",
+      "Bash(git -C /workspaces/Lizwell-AI add index.html)",
+      "Bash(git -C /workspaces/Lizwell-AI commit -m ' *)"
+    ]
+  }
+}
